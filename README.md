@@ -5,6 +5,7 @@ Operator of a parametrized Posit multiplier for the FloPoCo tool (<http://flopoc
 - Edit `CMakeLists.txt` adding `src/PositMult`
 - Edit `src/FloPoCo.hpp` adding `#include "Posit/PositMult.hpp"`
 - Edit `src/main.cpp` performing similar action
+- Repeat steps with `PositDecoder`
 - Compile and fix
 
 ## New features of this template
